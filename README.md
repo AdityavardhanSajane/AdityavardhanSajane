@@ -32,7 +32,7 @@ I mostly work with Python, DevOps tools and Cloud based technologies. 🚀
 ### Databases and Monitoring
   
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="65" />
   </a>
   </a>
     <a href="https://www.mysql.com//" target="_blank" >
