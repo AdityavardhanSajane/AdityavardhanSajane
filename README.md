@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am [Adityavardhan](www.linkedin.com/in/adityavardhan-sajane/), a DevOps and Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2 years of professional working experience. 🎯
+I am [Adityavardhan](www.linkedin.com/in/adityavardhan-sajane-97b4ba21/), a DevOps and Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2 years of professional working experience. 🎯
 
 I mostly work with Python, DevOps tools and Cloud based technologies. 🚀
 
