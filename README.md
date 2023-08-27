@@ -30,7 +30,7 @@ I mostly work with Python, DevOps tools and Cloud based technologies. 🚀
  </p>
   
 ### Databases and Monitoring
-  
+
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="65" />
   </a>
@@ -39,9 +39,7 @@ I mostly work with Python, DevOps tools and Cloud based technologies. 🚀
   </a>
     <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
-  </a>
-  
-</p>
+  </a> 
 
 
 ### 📫 How to reach me?
