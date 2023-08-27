@@ -34,7 +34,6 @@ I mostly work with Python, DevOps tools and Cloud based technologies. 🚀
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="65" />
   </a>
-  </a>
     <a href="https://www.mysql.com//" target="_blank" >
     <img src="https://github.com/AdityavardhanSajane/AdityavardhanSajane/assets/83508128/4d6b51f1-4da1-4c20-a325-a4029613c477.png" height="60" />
   </a>
