@@ -45,5 +45,5 @@ I mostly work with Python, DevOps tools and Cloud based technologies. 🚀
 ### 📫 How to reach me?
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/adityavardhan-sajane-97b4ba212/) 👨🏻‍💻
- - Follow me on [Instagram]([https://www.instagram.com/shubhamlondhe96](https://instagram.com/iadityasajane?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)https://instagram.com/iadityasajane?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D/) ✨
+ - Follow me on [Instagram](https://www.instagram.com/iadityasajane/) ✨
  - Shoot Me an [Email](mailto:adityavardhansajane@gmail.com) 💌
