@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<!--
-**LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-I am [Shubham](https://www.linkedin.com/in/shubhamlondhe1996/), a Full Stack Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional onsite as well as remote working experience. 🎯
+I am [Adityavardhan](www.linkedin.com/in/adityavardhan-sajane-97b4ba212/), a DevOps and Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2 years of professional working experience. 🎯
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+I mostly work with Python, DevOps tools and Cloud based technologies. 🚀
 
 
 <p float="left">
