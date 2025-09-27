@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-I am Adityavardhan, a DevOps and Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2 years of professional working experience. 🎯
+I am Adityavardhan, a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 4 years of professional working experience. 🎯
 
-I mostly work with Python, DevOps tools and Cloud based technologies. 🚀
+I mostly work with OpenShift, ArgoCD, Ansible, Kubernetes and other DevOps tools and Cloud based technologies. 🚀
 
 
 <p float="left">
